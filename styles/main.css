@@ -1,0 +1,16 @@
+header {
+    text-align: center;
+}
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.shop {
+    flex-basis: 16%;
+    border: 1px inset greenyellow;
+    border-radius: 4px;
+    padding: 1em;
+    margin: 0.5em;
+    text-align: center;
+}
